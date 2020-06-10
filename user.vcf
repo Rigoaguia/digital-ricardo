@@ -7,8 +7,8 @@ ORG:NXP;
 TITLE:Associate Software Engineer\nProducts Team, Data Science Division
 EMAIL;type=INTERNET;type=WORK;type=pref:rigoaguia@gmail.com
 TEL;type=WORK;type=VOICE:+65 999651042
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;; Campinas sp
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:;; nxp.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
